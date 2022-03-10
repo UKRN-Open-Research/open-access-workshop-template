@@ -25,8 +25,8 @@ ukrn_email: training@ukrn.org
 ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
-pre_survey:
-post_survey:
+pre_survey: https://docs.google.com/forms/d/e/1FAIpQLScrhdIVzixyOoGTicYQ1Ug71TeAfbt4UnQ0xRxTkBVOSrvNOg/viewform?usp=pp_url&entry.2087576176=
+post_survey: https://docs.google.com/forms/d/e/1FAIpQLScBjdxQpv-mRwNyfUIFU37_ljbt2BKmYOUzMXddSXUgyUlwqQ/viewform?usp=pp_url&entry.579599320=boo
 collections:
   episodes:
     output: true

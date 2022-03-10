@@ -21,6 +21,11 @@ originalRepository: UKRN-Open-Research/open-code-workshop-template
 
 ---
 
+## What is Open Access
+Open Access means that readers have free, unrestricted access to published research outputs.
+
+## Why choose Open Access?
+
 > ## Enumerating the benefits `5 min`
 > In small groups, try to think of reasons people publish academic work.
 > In what ways might open access help achieve these goals?
@@ -31,7 +36,9 @@ originalRepository: UKRN-Open-Research/open-code-workshop-template
 > > - We publish because we want people to know what we've done
 > > - We want people to be able to build on our work
 > > - We want to get credit for our work
-> > - Publishing is a requirement for advancing our careers
+> > - Open Access publishing is a requirement for advancing our careers
+> > - Open Access is required by our university, funder, etc.
+> > - We want people outside academia to access our work (policy makers, charities, industry, etc.)
 > {: .solution}
 {: .prereq}
 

@@ -1,7 +1,7 @@
 ---
 title: Implementing into your workflow
 teaching: null
-exercises: 20
+exercises: 30
 duration: null
 summary: Planning when and how you will do open access publishing.
 questions:
